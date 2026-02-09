@@ -4,9 +4,10 @@ public class TestView {
 
 	public void math(){
 	}
-//		public void select()
-//		{
-//			System.out.println("select");
-//		}
+		public void select()
+		{
+			System.out.println("select");
+			System.out.println("service 추가");
+		}
 
 }
