@@ -9,8 +9,15 @@ public class TestView {
 			System.out.println("select");
 			System.out.println("service 추가");
 		}
+
 		public void update() {
 			System.out.println("update 수정");
 		}
+
+	public void delete() {
+			System.out.println("update 수정");
+		}
+
+
 
 }
