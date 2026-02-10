@@ -5,6 +5,9 @@ public class GoodsController {
 		System.out.println("order 상태");
 	}
 	
+	public void orderCart() {
+		System.out.println("로컬 cartbranch에서 추가함");
+	}
 //	public static void main(String[] args) {
 //
 //		System.out.println("test 원격수정 ");
